@@ -1,0 +1,61 @@
+/*General*/
+body {
+    background-color: black;
+}
+
+p{
+    font-family: 'Courier New', sans-serif;
+    font-size: large;
+}
+
+a{
+    color:black;
+}
+
+/*Main Page*/
+#banner,
+.recList{
+    text-align: center;
+    font-size: larger;
+}
+#banner{
+    text-align: center;
+    color:red
+}
+
+#banner img{
+    width: auto;
+    height: 400;
+}
+
+.recList{
+    background-color: red;
+    font-weight: 600;
+}
+
+
+/*Recipes*/
+.recIm{
+    height: 200px;
+    width: auto;
+}
+
+.recPres{
+    background-color: red;
+    text-align: center;
+}
+
+.recPres p{
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+
+.recIng{
+    color:red;
+    font-size: 20pt;
+}
+
+.recSteps{
+    background-color: red;
+    font-size: 30pt
+}
